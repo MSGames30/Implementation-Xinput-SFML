@@ -10,7 +10,7 @@ Apporte une meilleure gestion des 2 sticks analogiques (pas encore d'exemple pr�
 Pour compiler le projet avec Xinput il faut installer le windows 10 SDK (pour avoir le header xinput.h):
 https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk (prendre la dernière version)
 
-et inclure la xinput.lib au propriétés du projet (dans ce projet la lib est seulement incluse en mode debug X64 (simplement paraméter le projet pour les autres modes)).
+et inclure la xinput.lib au propriétés du projet (dans ce projet la lib est seulement incluse en mode debug X64 (il reste simplement à paraméter le projet pour les autres modes)).
 
 Le fichier xinput.lib est dans SFML/Lib (temporaire pour les tests //TODO créer un répertoire spécifique pour la lib xinput).
 
