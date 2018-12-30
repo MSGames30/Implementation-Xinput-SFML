@@ -1,7 +1,7 @@
-# Re-ColoriZe
-Projet perso 1a
+# Example Xinput avec SFML
 
-Projet exemple pour la librairie Xinput , le code source de Re-ColoriZe n'est pas encore ajouté.
+
+Projet exemple pour la librairie Xinput.
 
 Implémentation de la librairie Xinput pour gestion du pad Xbox360/one ,
 
