@@ -1,4 +1,4 @@
-# Example Xinput avec SFML
+# Exemple Xinput avec SFML
 
 
 Projet exemple pour la librairie Xinput.
