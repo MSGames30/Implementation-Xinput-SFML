@@ -1,7 +1,7 @@
-# Exemple Xinput avec SFML
+# Example Xinput avec SFML
 
 
-Projet exemple pour la librairie Xinput.
+Projet example pour la librairie Xinput.
 
 Implémentation de la librairie Xinput pour gestion du pad Xbox360/one ,
 
